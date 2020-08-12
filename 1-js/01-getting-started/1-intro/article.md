@@ -54,7 +54,7 @@ Tarayıcı içerisindeki JavaScript ise web sayfasında görsel değişikliklere
 
 - Sayfaya yeni HTML kodları ekleme veya öncekileri değiştirme, stilleri değiştirme veya ekleme.
 - Kullanıcının eylemlerine karşılık verme. Tıklama veya fare imlecinin hareketine göre işlem yaptırabilme.
-- Ağ üzerinden talep gönderebilme. Dosya yükleme veya indirebilme ( buna [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming)) ve [COMET](https://en.wikipedia.org/wiki/Comet_(programming)) teknolojileri denir )
+- Ağ üzerinden talep gönderebilme. Dosya yükleme veya indirebilme (Buna [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming)) ve [COMET](https://en.wikipedia.org/wiki/Comet_(programming)) teknolojileri denir.)
 - Tarayıcıdaki çerezleri silme, ekleme veya düzeltme işlemlerinin yapılması. İleti gösterilmesi.
 - Kullanıcı tarafında verilerin saklanması ("local storage")
 
@@ -62,7 +62,7 @@ Tarayıcı içerisindeki JavaScript ise web sayfasında görsel değişikliklere
 
 Tarayıcı içerisinde bulunan JavaScript kullanıcı güvenliği amacıyla sınırlandırılmıştır. Amaç zararlı web sitelerinin özel bilgilere erişip kullanıcıya zarar vermesini engellemektir.
 
-Bu engellemeleri şu biçimde sıralayabiliriz :
+Bu engellemeleri şu biçimde sıralayabiliriz:
 
 - Web sayfasında çalışan JavaScript dosyalara erişim sağlayamaz, saklama alanınızda bulunan programları kopyalayamaz veya çalıştıramaz. İşletim sisteminizin fonksiyonlarına doğrudan erişimi yoktur.
 
@@ -98,7 +98,7 @@ Yeni bir teknolojiyi öğrenmeye başlarken, sunacağı avantajlar için öngör
 
 ## JavaScript'e üstün diller
 
-JavaScript'in sözdizimi ve yazımı herkese uymayabilir. Her yiğidin yoğurt yiyişi ayrıdır.
+JavaScript'in sözdizimi ve yazımı herkese uymayabilir. Her yiğidin yoğurt yiyişi farklıdır.
 
 Bu olağan bir durum, çünkü tasarımlar ve gereksinimler kişiden kişiye göre değişir.
 
